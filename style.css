@@ -158,3 +158,13 @@ button1 {
     padding: 0px 10px;
     border-radius: 8px;
 }
+.block5 {
+    background-color: rgb(31, 29, 29);
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 30px;
+}
+.Copyright {
+    color: white;
+    text-align: center;
+}
