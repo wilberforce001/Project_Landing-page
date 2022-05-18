@@ -95,6 +95,7 @@ button {
     display: inline-block;
     width: 130px;
     text-align: start;
+    text-align: inherit;
 }
 .text1 {
     margin-left: 190px;
@@ -108,4 +109,20 @@ button {
 .text4 {
     margin-left: 27px;
     padding-bottom: 50px;
+}
+.block3 {
+    background-color: rgb(153, 145, 145);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.quote {
+    width: 430px;
+    padding-top: 50px;
+    margin-left: 250px;
+    font-style: italic;
+}
+.thor {
+    margin-left: 480px;
+    padding-bottom: 50px;
+    font-weight: bold;
 }
